@@ -1,2 +1,3 @@
-this is nano files
-
+welcome to diff commnd andherstahding
+i see this is workde or not in 
+print("hello git")
